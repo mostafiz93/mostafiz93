@@ -1,3 +1,4 @@
+
 Hey there 👋 
 This is Mostafiz Rahman, a young entrepreneur from Dhaka, Bangladesh. Currently I'm working in [Durbin Labs Limited](http://durbinlabs.com) as Engineering Director. 
 
@@ -62,3 +63,18 @@ Stadium is a platform offered by  [_Canadian Wealth Inc_](https://canadian-wealt
 ## Recent Blog Posts  
 - [Seamless Teamwork in VS Code with ES Lint, Prettier and Git Lens](https://dev.to/mostafiz93/seamless-team-work-in-vs-code-with-es-lint-prettier-and-git-lens-360d)
 
+
+
+###  Connect with me:    
+[<img align="left" alt="Mostafiz Rahman Bangladesh Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mostafiz.net)    
+[<img align="left" alt="Mostafiz Rahman Bangladesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](twitter.com/mostafiz93)    
+[<img align="left" alt="Mostafiz Rahman Bangladesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mostafiz93/)     
+ [<img align="left" alt="Mostafiz Rahman Bangladesh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](facebook.com/mostafiz93)  
+[<img align="left" alt="Mostafiz Rahman Bangladesh StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/1067326/mostafiz-rahman?tab=profile)
+[<img align="left" alt="Mostafiz Rahman Bangladesh youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/user/MostafizRahman93/)
+[<img align="left" alt="Mostafiz Rahman Bangladesh 500px" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/500px.svg" />](https://500px.com/p/mostafiz93)
+[<img align="left" alt="Mostafiz Rahman Bangladesh github profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/mostafiz93)
+[<img align="left" alt="Mostafiz Rahman Bangladesh Dev.to" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />](https://dev.to/mostafiz93)
+[<img align="left" alt="Mostafiz Rahman Bangladesh CodePen.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />](https://codepen.io/mostafiz93/collections/)
+[<img align="left" alt="Mostafiz Rahman Bangladesh Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:mostafiz93@gmail.com)
+   
