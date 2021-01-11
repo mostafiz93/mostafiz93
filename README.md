@@ -15,7 +15,8 @@ I'm a Full Stack engineer. **Full Stack** in a sense that I work in the API and 
 
 
 ##  Projects 
-<Click and expand to show details>
+<Details> 
+ <summary>Click here to show projects</summary>
 
 >  [**Doctor Dekhao**](http://doctordekhao.com.bd/) - Technical Project Manager & DevOps Engineer
 > Doctor Dekhao is the Uber in Healthcare industry. It enables any user to virtually visit a doctor anytime from anywhere within a second. It’s been used by 100,000+ users with an average rating of  **4.3**
@@ -38,7 +39,7 @@ I'm a Full Stack engineer. **Full Stack** in a sense that I work in the API and 
 
 > **Stadium** - Technical Project Manager & Team Lead
 Stadium is a platform offered by  [_Canadian Wealth Inc_](https://canadian-wealth.ca/)  that enables the users to order food and drinks at their seat while watching live sports in the Stadiums.
-</Click and expand to show details>
+</Details>
 
 
 ## Recent Blog Posts  
