@@ -7,7 +7,8 @@ I'm a Full Stack engineer. **Full Stack** in a sense that I work in the API and 
 
 ## Summary  
 <details>
-<summary>Click here to show the my profile summary :</summary>
+<summary>Click here to show the my profile summary :</summary>  
+ 
 -   12 years of programming experience
 -   6+ years professional experience as SW Engineer
 -   4+ years of Full Stack development experience with JS, Node
