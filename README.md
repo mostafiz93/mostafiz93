@@ -1,6 +1,6 @@
 
 Hey there 👋 
-This is Mostafiz Rahman, a young entrepreneur from Dhaka, Bangladesh. Currently I'm working in [Durbin Labs Limited](http://durbinlabs.com) as Engineering Director. 
+This is Mostafiz Rahman, currently leading the Product Engineering team at *Intelligent Machines Limites*, a deep tech startup extensively working on AI and Analytics. Previously I co-founded *[Durbin Labs Limited](http://durbinlabs.com)* and served as Engineering Director till March 2021.
 
 I'm a Full Stack engineer. **Full Stack** in a sense that I work in the API and Back-ends, I work on the client end in both web and mobile clients. For Back-end I love NodeJs, for web client end I work with React and for Mobile I use React Native to build cross platform mobile applications. 
 
@@ -11,11 +11,11 @@ I'm a Full Stack engineer. **Full Stack** in a sense that I work in the API and 
  
 -   12 years of programming experience
 -   6+ years professional experience as SW Engineer
--   4+ years of Full Stack development experience with JS, Node
+-   5+ years of Full Stack development experience with JS, Node
 -   Hands on experience in N-tier Software Architecture and Software Development Life Cycle
--   12+ professional projects completion as Technical Lead position
+-   15+ professional projects completion as Technical Lead position
 -   Hands on experience with Amazon Cloud Services (AWS) and Microsoft Azure
--   Top 5% in StackOverflow(top 50 from Bangladesh) with 6.5k+ reputation points
+-   Top 5% in StackOverflow(top 50 from Bangladesh) with 7k+ reputation points
 </details>
 
 
