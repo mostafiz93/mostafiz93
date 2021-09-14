@@ -1,6 +1,6 @@
 
 Hey there 👋 
-This is Mostafiz Rahman, currently leading the Product Engineering team at *Intelligent Machines Limites*, a deep tech startup extensively working on AI and Analytics. Previously I co-founded *[Durbin Labs Limited](http://durbinlabs.com)* and served as Engineering Director till March 2021.
+This is Mostafiz Rahman, currently leading the Product Engineering team at *Intelligent Machines Limited*, a deep tech startup extensively working on AI and Analytics. Previously I co-founded *[Durbin Labs Limited](http://durbinlabs.com)* and served as Engineering Director till March 2021.
 
 I'm a Full Stack engineer. **Full Stack** in a sense that I work in the API and Back-ends, I work on the client end in both web and mobile clients. For Back-end I love NodeJs, for web client end I work with React and for Mobile I use React Native to build cross platform mobile applications. 
 
